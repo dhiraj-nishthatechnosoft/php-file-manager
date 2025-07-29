@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Dhiraj\PhpFileManager\Services;
+namespace NishthaTechnosoft\PhpFileManager\Services;
 
-use Dhiraj\PhpFileManager\Config\Configuration;
+use NishthaTechnosoft\PhpFileManager\Config\Configuration;
 
 /**
  * Authentication service for file manager

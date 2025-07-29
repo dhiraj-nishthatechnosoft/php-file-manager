@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dhiraj\PhpFileManager\Resources;
+namespace NishthaTechnosoft\PhpFileManager\Resources;
 
 /**
  * Resource Manager for handling views and assets

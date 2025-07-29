@@ -1,8 +1,8 @@
 # PHP File Manager
 
-[![Latest Version](https://img.shields.io/packagist/v/dhiraj/php-file-manager.svg)](https://packagist.org/packages/dhiraj/php-file-manager)
-[![License](https://img.shields.io/packagist/l/dhiraj/php-file-manager.svg)](https://packagist.org/packages/dhiraj/php-file-manager)
-[![PHP Version](https://img.shields.io/packagist/php-v/dhiraj/php-file-manager.svg)](https://packagist.org/packages/dhiraj/php-file-manager)
+[![Latest Version](https://img.shields.io/packagist/v/nishthatechnosoft/php-file-manager.svg)](https://packagist.org/packages/nishthatechnosoft/php-file-manager)
+[![License](https://img.shields.io/packagist/l/nishthatechnosoft/php-file-manager.svg)](https://packagist.org/packages/nishthatechnosoft/php-file-manager)
+[![PHP Version](https://img.shields.io/packagist/php-v/nishthatechnosoft/php-file-manager.svg)](https://packagist.org/packages/nishthatechnosoft/php-file-manager)
 
 # PHP File Manager
 
@@ -57,7 +57,7 @@
 - 🐛 [Issue Tracker](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/issues)
 - 💬 [Discussions](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/discussions)NSE)
 [![PSR-12](https://img.shields.io/badge/code%20style-PSR--12-orange)](https://www.php-fig.org/psr/psr-12/)
-[![Composer](https://img.shields.io/badge/composer-installable-brightgreen)](https://packagist.org/packages/dhiraj/php-file-manager)
+[![Composer](https://img.shields.io/badge/composer-installable-brightgreen)](https://packagist.org/packages/nishthatechnosoft/php-file-manager)
 
 A modern, feature-rich web-based file manager built with PHP 8.0+. This package provides a complete file management solution with advanced features like bulk operations, archive handling, path-based navigation, and a responsive user interface.
 
@@ -102,7 +102,7 @@ A modern, feature-rich web-based file manager built with PHP 8.0+. This package 
 ### Via Composer (Recommended)
 
 ```bash
-composer require dhiraj/php-file-manager
+composer require nishthatechnosoft/php-file-manager
 ```
 
 ### Manual Installation
@@ -406,7 +406,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Packagist Package](https://packagist.org/packages/dhiraj/php-file-manager)
+- [Packagist Package](https://packagist.org/packages/nishthatechnosoft/php-file-manager)
 - [GitHub Repository](https://github.com/dhiraj-nishthatechnosoft/php-file-manager)
 - [Documentation](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/wiki)
 
@@ -432,7 +432,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Via Composer (Recommended)
 
 ```bash
-composer require dhiraj/php-file-manager
+composer require nishthatechnosoft/php-file-manager
 ```
 
 ### Manual Installation

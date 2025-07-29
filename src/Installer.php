@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dhiraj\PhpFileManager;
+namespace NishthaTechnosoft\PhpFileManager;
 
 use Composer\Script\Event;
 use Composer\IO\IOInterface;
@@ -179,7 +179,7 @@ PHP;
 <?php
 require_once 'vendor/autoload.php';
 
-use Dhiraj\PhpFileManager\FileManager;
+use NishthaTechnosoft\PhpFileManager\FileManager;
 
 // Load configuration
 $config = require 'filemanager-config.php';

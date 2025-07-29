@@ -6,7 +6,7 @@
  * This is the main entry point for the PHP File Manager application.
  * It initializes the file manager with default or custom configuration.
  *
- * @package Dhiraj\PhpFileManager
+ * @package NishthaTechnosoft\PhpFileManager
  * @version 1.0.0
  * @author Dhiraj Dhiman
  */
@@ -20,7 +20,7 @@ ini_set('display_errors', '1');
 // Include composer autoloader
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Dhiraj\PhpFileManager\FileManager;
+use NishthaTechnosoft\PhpFileManager\FileManager;
 
 try {
     // Default configuration - customize as needed

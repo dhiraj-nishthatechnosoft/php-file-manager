@@ -1,6 +1,6 @@
-# Publishing Guide for dhiraj/php-file-manager
+# Publishing Guide for nishthatechnosoft/php-file-manager
 
-This guide explains how to publish and maintain the `dhiraj/php-file-manager` package on Packagist and other repositories.
+This guide explains how to publish and maintain the `nishthatechnosoft/php-file-manager` package on Packagist and other repositories.
 
 ## Prerequisites
 
@@ -174,8 +174,8 @@ Before each release, ensure:
 
 ### 1. Packagist (Primary)
 
-- **URL**: https://packagist.org/packages/dhiraj/php-file-manager
-- **Installation**: `composer require dhiraj/php-file-manager`
+- **URL**: https://packagist.org/packages/nishthatechnosoft/php-file-manager
+- **Installation**: `composer require nishthatechnosoft/php-file-manager`
 - **Updates**: Automatic via GitHub webhook
 
 ### 2. GitHub Releases
@@ -303,7 +303,7 @@ Successful package maintenance requires:
 - Prompt security responses
 - Clear documentation
 
-Following this guide ensures the `dhiraj/php-file-manager` package remains high-quality, secure, and valuable to the PHP community.
+Following this guide ensures the `nishthatechnosoft/php-file-manager` package remains high-quality, secure, and valuable to the PHP community.
 
 ---
 

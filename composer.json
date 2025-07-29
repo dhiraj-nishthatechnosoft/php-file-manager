@@ -1,5 +1,5 @@
 {
-    "name": "dhiraj/php-file-manager",
+    "name": "nishthatechnosoft/php-file-manager",
     "description": "A modern, web-based file manager with advanced features like bulk operations, archive handling, and path-based navigation",
     "type": "library",
     "keywords": ["file-manager", "web", "php", "file-browser", "archive", "bulk-operations", "psr-12"],
@@ -32,20 +32,20 @@
     },
     "autoload": {
         "psr-4": {
-            "Dhiraj\\PhpFileManager\\": "src/"
+            "NishthaTechnosoft\\PhpFileManager\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Dhiraj\\PhpFileManager\\Tests\\": "tests/"
+            "NishthaTechnosoft\\PhpFileManager\\Tests\\": "tests/"
         }
     },
     "scripts": {
         "post-install-cmd": [
-            "Dhiraj\\PhpFileManager\\Installer::postInstall"
+            "NishthaTechnosoft\\PhpFileManager\\Installer::postInstall"
         ],
         "post-update-cmd": [
-            "Dhiraj\\PhpFileManager\\Installer::postUpdate"
+            "NishthaTechnosoft\\PhpFileManager\\Installer::postUpdate"
         ],
         "test": "phpunit",
         "phpcs": "phpcs src/ --standard=PSR12",

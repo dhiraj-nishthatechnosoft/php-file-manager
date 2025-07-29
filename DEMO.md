@@ -6,7 +6,7 @@ This demonstrates how your package will be installed once published to Packagist
 
 ```bash
 # Install via Composer (after publishing to Packagist)
-composer require dhiraj/php-file-manager
+composer require nishthatechnosoft/php-file-manager
 
 # The post-install script will automatically:
 # - Create a public/ directory with index.php
@@ -25,7 +25,7 @@ cd my-file-manager
 composer init --name="mycompany/my-file-manager" --type=project --stability=stable --no-interaction
 
 # Add the package
-composer require dhiraj/php-file-manager
+composer require nishthatechnosoft/php-file-manager
 
 # Start PHP built-in server
 php -S localhost:8080 -t public/

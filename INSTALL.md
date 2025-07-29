@@ -19,7 +19,7 @@ mkdir my-file-manager
 cd my-file-manager
 
 # Install the package
-composer require dhiraj/php-file-manager
+composer require nishthatechnosoft/php-file-manager
 
 # Create a basic index.php file
 cat > index.php << 'EOF'

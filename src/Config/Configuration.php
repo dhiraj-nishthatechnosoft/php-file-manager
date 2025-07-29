@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dhiraj\PhpFileManager\Config;
+namespace NishthaTechnosoft\PhpFileManager\Config;
 
 /**
  * Configuration class for PHP File Manager

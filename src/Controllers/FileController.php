@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Dhiraj\PhpFileManager\Controllers;
+namespace NishthaTechnosoft\PhpFileManager\Controllers;
 
-use Dhiraj\PhpFileManager\Config\Configuration;
-use Dhiraj\PhpFileManager\Services\SecurityService;
+use NishthaTechnosoft\PhpFileManager\Config\Configuration;
+use NishthaTechnosoft\PhpFileManager\Services\SecurityService;
 use Exception;
 use PharData;
 use ZipArchive;

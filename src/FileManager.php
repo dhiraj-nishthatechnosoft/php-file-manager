@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Dhiraj\PhpFileManager;
+namespace NishthaTechnosoft\PhpFileManager;
 
-use Dhiraj\PhpFileManager\Config\Configuration;
-use Dhiraj\PhpFileManager\Controllers\FileController;
-use Dhiraj\PhpFileManager\Services\AuthenticationService;
-use Dhiraj\PhpFileManager\Services\SecurityService;
-use Dhiraj\PhpFileManager\Resources\ResourceManager;
+use NishthaTechnosoft\PhpFileManager\Config\Configuration;
+use NishthaTechnosoft\PhpFileManager\Controllers\FileController;
+use NishthaTechnosoft\PhpFileManager\Services\AuthenticationService;
+use NishthaTechnosoft\PhpFileManager\Services\SecurityService;
+use NishthaTechnosoft\PhpFileManager\Resources\ResourceManager;
 
 /**
  * Main PHP File Manager class

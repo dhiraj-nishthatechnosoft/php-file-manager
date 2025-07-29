@@ -5,7 +5,7 @@
 
 set -e
 
-echo "🚀 Publishing dhiraj/php-file-manager to Packagist..."
+echo "🚀 Publishing nishthatechnosoft/php-file-manager to Packagist..."
 
 # Colors for output
 GREEN='\033[0;32m'
@@ -14,7 +14,7 @@ YELLOW='\033[1;33m'
 NC='\033[0m'
 
 echo -e "${BLUE}📦 Package Information:${NC}"
-echo "  Name: dhiraj/php-file-manager"
+echo "  Name: nishthatechnosoft/php-file-manager"
 echo "  Repository: https://github.com/dhiraj-nishthatechnosoft/php-file-manager"
 echo "  Version: v1.0.0"
 echo "  License: MIT"
@@ -48,13 +48,13 @@ echo ""
 
 echo "4. ✅ Verify Installation:"
 echo "   • Wait 5-10 minutes for indexing"
-echo "   • Test: composer require dhiraj/php-file-manager"
+echo "   • Test: composer require nishthatechnosoft/php-file-manager"
 echo ""
 
 echo -e "${GREEN}🎉 After Publishing:${NC}"
 echo ""
 echo "Users can install your package with:"
-echo "  composer require dhiraj/php-file-manager"
+echo "  composer require nishthatechnosoft/php-file-manager"
 echo ""
 echo "The package will automatically:"
 echo "  • Create public/index.php entry point"

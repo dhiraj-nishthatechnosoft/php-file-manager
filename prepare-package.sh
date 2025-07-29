@@ -5,7 +5,7 @@
 
 set -e  # Exit on any error
 
-echo "🚀 Preparing dhiraj/php-file-manager for publication..."
+echo "🚀 Preparing nishthatechnosoft/php-file-manager for publication..."
 
 # Colors for output
 RED='\033[0;31m'
