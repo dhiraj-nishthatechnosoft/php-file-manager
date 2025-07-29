@@ -190,8 +190,8 @@ $fileManager->run();
 ```
 
 <info>Documentation:</info>
-- GitHub: <comment>https://github.com/dhirajdhiman/php-file-manager</comment>
-- Issues: <comment>https://github.com/dhirajdhiman/php-file-manager/issues</comment>
+- GitHub: <comment>https://github.com/dhiraj-nishthatechnosoft/php-file-manager</comment>
+- Issues: <comment>https://github.com/dhiraj-nishthatechnosoft/php-file-manager/issues</comment>
 
 <comment>Happy file managing! 🚀</comment>
 

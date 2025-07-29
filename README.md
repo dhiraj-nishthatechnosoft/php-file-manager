@@ -7,7 +7,55 @@
 # PHP File Manager
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.0-blue)](https://php.net)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green)](L## Sup## - Path-based na- PSR-12 co## Auth## Author
+
+**Dhiraj Dhiman**
+- GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
+- Email: dhiraj@example.com
+
+---Dhiman**
+- GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
+- Email: dhiraj@example.com
+
+---
+
+⭐ If you find this project useful, please consider giving it a star on GitHub!Comprehensive documentation
+
+## Author
+
+**Dhiraj Dhiman**
+- GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
+- Email: dhiraj@example.com
+
+---- Bulk operations support
+- Archive handling (ZIP/TAR.GZ)
+- Modern responsive UI
+- PSR-12 compliant code
+- Comprehensive documentation
+
+## Author
+
+**Dhiraj Dhiman**
+- GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
+- Email: dhiraj@example.com
+
+--- Dhiman**
+- GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
+- Email: dhiraj@example.com
+
+---
+
+⭐ If you find this project useful, please consider giving it a star on GitHub! Dhiman**
+- GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
+- Email: dhiraj@example.com
+
+---
+
+⭐ If you find this project useful, please consider giving it a star on GitHub!ocumentation](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/wiki)
+- 🐛 [Issue Tracker](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/issues)
+- 💬 [Discussions](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/discussions)[Documentation](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/wiki)
+- 🐛 [Issue Tracker](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/issues)
+- 💬 [Discussions](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/discussions)NSE)
 [![PSR-12](https://img.shields.io/badge/code%20style-PSR--12-orange)](https://www.php-fig.org/psr/psr-12/)
 [![Composer](https://img.shields.io/badge/composer-installable-brightgreen)](https://packagist.org/packages/dhiraj/php-file-manager)
 
@@ -291,7 +339,7 @@ document.addEventListener('DOMContentLoaded', function() {
 ### Setup Development Environment
 
 ```bash
-git clone https://github.com/dhirajdhiman/php-file-manager.git
+git clone https://github.com/dhiraj-nishthatechnosoft/php-file-manager.git
 cd php-file-manager
 composer install
 ```
@@ -352,19 +400,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/dhirajdhiman/php-file-manager/issues)
-- **Documentation**: [GitHub Wiki](https://github.com/dhirajdhiman/php-file-manager/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/dhirajdhiman/php-file-manager/discussions)
+- **Issues**: [GitHub Issues](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/issues)
+- **Documentation**: [GitHub Wiki](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/wiki)
+- **Discussions**: [GitHub Discussions](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/discussions)
 
 ## 🔗 Links
 
 - [Packagist Package](https://packagist.org/packages/dhiraj/php-file-manager)
-- [GitHub Repository](https://github.com/dhirajdhiman/php-file-manager)
-- [Documentation](https://github.com/dhirajdhiman/php-file-manager/wiki)
+- [GitHub Repository](https://github.com/dhiraj-nishthatechnosoft/php-file-manager)
+- [Documentation](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/wiki)
 
 ---
 
-**Made with ❤️ by [Dhiraj Dhiman](https://github.com/dhirajdhiman)**
+**Made with ❤️ by [Dhiraj Dhiman](https://github.com/dhiraj-nishthatechnosoft)**
 
 ## Features
 
@@ -598,14 +646,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- � [Documentation](https://github.com/dhirajdhiman/php-file-manager/wiki)
-- � [Issue Tracker](https://github.com/dhirajdhiman/php-file-manager/issues)
-- 💬 [Discussions](https://github.com/dhirajdhiman/php-file-manager/discussions)
 
 ## Author
 
 **Dhiraj Dhiman**
-- GitHub: [@dhirajdhiman](https://github.com/dhirajdhiman)
+- GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
 - Email: dhiraj@example.com
 
 ---

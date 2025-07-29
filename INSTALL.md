@@ -44,7 +44,8 @@ mkdir files
 
 ```bash
 # Clone or download the repository
-git clone https://github.com/dhirajdhiman/php-file-manager.git
+```bash
+git clone https://github.com/dhiraj-nishthatechnosoft/php-file-manager.git
 cd php-file-manager
 
 # Install dependencies
@@ -298,5 +299,5 @@ require_once 'vendor/autoload.php';
 If you encounter issues:
 
 1. Check the [troubleshooting section](#troubleshooting) above
-2. Review the [GitHub Issues](https://github.com/dhirajdhiman/php-file-manager/issues)
+2. Review the [GitHub Issues](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/issues)
 3. Create a new issue with detailed information about your setup and the problem

@@ -32,7 +32,7 @@ git tag -a v1.0.0 -m "Initial stable release"
 git push origin v1.0.0
 
 # Create release on GitHub
-# Go to: https://github.com/dhirajdhiman/php-file-manager/releases/new
+# Go to: https://github.com/dhiraj-nishthatechnosoft/php-file-manager/releases/new
 # - Tag: v1.0.0
 # - Title: "v1.0.0 - Initial Release"
 # - Description: Copy from CHANGELOG.md
@@ -43,7 +43,7 @@ git push origin v1.0.0
 1. Visit https://packagist.org/
 2. Log in with your GitHub account
 3. Click "Submit Package"
-4. Enter repository URL: `https://github.com/dhirajdhiman/php-file-manager`
+4. Enter repository URL: `https://github.com/dhiraj-nishthatechnosoft/php-file-manager`
 5. Click "Check" to validate
 6. Click "Submit" to publish
 
@@ -180,7 +180,7 @@ Before each release, ensure:
 
 ### 2. GitHub Releases
 
-- **URL**: https://github.com/dhirajdhiman/php-file-manager/releases
+- **URL**: https://github.com/dhiraj-nishthatechnosoft/php-file-manager/releases
 - **Purpose**: Detailed release notes and downloadable archives
 - **Format**: Include changelog, upgrade instructions, and breaking changes
 
@@ -188,7 +188,7 @@ Before each release, ensure:
 
 ```bash
 # Configure for GitHub Packages
-composer config repositories.github composer https://composer.github.com/dhirajdhiman/
+composer config repositories.github composer https://composer.github.com/dhiraj-nishthatechnosoft/
 ```
 
 ## Marketing and Promotion
@@ -309,4 +309,4 @@ Following this guide ensures the `dhiraj/php-file-manager` package remains high-
 
 **Last Updated**: January 29, 2025
 **Maintainer**: Dhiraj Dhiman
-**Repository**: https://github.com/dhirajdhiman/php-file-manager
+**Repository**: https://github.com/dhiraj-nishthatechnosoft/php-file-manager

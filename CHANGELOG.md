@@ -109,9 +109,9 @@ This is the initial stable release. No migration is required as this is the firs
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/dhirajdhiman/php-file-manager/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/dhirajdhiman/php-file-manager/discussions)
-- **Security**: [Security Policy](https://github.com/dhirajdhiman/php-file-manager/security/policy)
+- **Issues**: [GitHub Issues](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/discussions)
+- **Security**: [Security Policy](https://github.com/dhiraj-nishthatechnosoft/php-file-manager/security/policy)
 
 ## Contributing
 
