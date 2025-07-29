@@ -1,0 +1,366 @@
+/* PHP File Manager - Additional Styles */
+
+/* Dark Theme */
+body.dark-theme {
+    background: #1a1a1a;
+    color: #e0e0e0;
+}
+
+body.dark-theme .header {
+    background: linear-gradient(135deg, #2c3e50, #34495e);
+}
+
+body.dark-theme .breadcrumb,
+body.dark-theme .actions,
+body.dark-theme .file-list {
+    background: #2c2c2c;
+    border: 1px solid #404040;
+}
+
+body.dark-theme .file-item:hover {
+    background: #3c3c3c;
+}
+
+body.dark-theme .file-name a {
+    color: #e0e0e0;
+}
+
+body.dark-theme .file-name a:hover {
+    color: #3498db;
+}
+
+body.dark-theme input[type="text"],
+body.dark-theme input[type="password"],
+body.dark-theme textarea,
+body.dark-theme input[type="file"] {
+    background: #3c3c3c;
+    color: #e0e0e0;
+    border: 1px solid #555;
+}
+
+/* Light Theme Enhancements */
+body.light-theme .header {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    color: #333;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 480px) {
+    .container {
+        padding: 10px;
+    }
+
+    .header {
+        padding: 15px;
+    }
+
+    .header h1 {
+        font-size: 22px;
+    }
+
+    .file-item {
+        padding: 10px 15px;
+    }
+
+    .file-actions {
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+
+    .file-actions a,
+    .file-actions button {
+        font-size: 11px;
+        padding: 3px 6px;
+    }
+}
+
+/* File Type Specific Colors */
+.file-item[data-type="php"] .file-name a {
+    color: #8993be;
+}
+
+.file-item[data-type="html"] .file-name a {
+    color: #e34c26;
+}
+
+.file-item[data-type="css"] .file-name a {
+    color: #1572b6;
+}
+
+.file-item[data-type="js"] .file-name a {
+    color: #f1e05a;
+}
+
+.file-item[data-type="json"] .file-name a {
+    color: #292929;
+}
+
+/* Animation Effects */
+.file-item {
+    transition: all 0.3s ease;
+}
+
+.file-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-edit:hover,
+.btn-download:hover,
+.btn-delete:hover,
+.btn-rename:hover,
+.btn-archive:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Loading Animation */
+.loading {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #f3f3f3;
+    border-top: 3px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Progress Bar */
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px 0;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #007cba, #0056b3);
+    transition: width 0.3s ease;
+}
+
+/* Drag and Drop Styles */
+.drop-zone {
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+    padding: 40px;
+    text-align: center;
+    margin: 20px 0;
+    transition: all 0.3s ease;
+}
+
+.drop-zone.dragover {
+    border-color: #007cba;
+    background-color: #f0f8ff;
+}
+
+.drop-zone-text {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Context Menu */
+.context-menu {
+    position: fixed;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    min-width: 150px;
+}
+
+.context-menu-item {
+    display: block;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px solid #eee;
+}
+
+.context-menu-item:hover {
+    background-color: #f5f5f5;
+}
+
+.context-menu-item:last-child {
+    border-bottom: none;
+}
+
+/* File Preview Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal-content {
+    background-color: white;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 800px;
+    max-height: 80%;
+    overflow: auto;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.modal-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.modal-close:hover {
+    color: #000;
+}
+
+/* Syntax Highlighting for Code Preview */
+.code-preview {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 4px;
+    padding: 15px;
+    font-family: 'Courier New', monospace;
+    overflow-x: auto;
+}
+
+.code-preview .keyword {
+    color: #d73a49;
+    font-weight: bold;
+}
+
+.code-preview .string {
+    color: #032f62;
+}
+
+.code-preview .comment {
+    color: #6a737d;
+    font-style: italic;
+}
+
+.code-preview .number {
+    color: #005cc5;
+}
+
+/* Notification System */
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    z-index: 1001;
+    opacity: 0;
+    transform: translateY(-50px);
+    transition: all 0.3s ease;
+}
+
+.notification.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.notification.success {
+    background-color: #28a745;
+}
+
+.notification.error {
+    background-color: #dc3545;
+}
+
+.notification.warning {
+    background-color: #ffc107;
+    color: #333;
+}
+
+.notification.info {
+    background-color: #17a2b8;
+}
+
+/* Search Box */
+.search-box {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.search-input {
+    width: 100%;
+    padding: 10px 40px 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    font-size: 14px;
+}
+
+.search-icon {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #666;
+}
+
+/* Keyboard Shortcuts Display */
+.shortcuts-help {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.shortcuts-help.show {
+    opacity: 1;
+}
+
+/* Print Styles */
+@media print {
+
+    .header,
+    .actions,
+    .file-actions {
+        display: none;
+    }
+
+    .file-list {
+        box-shadow: none;
+        border: 1px solid #000;
+    }
+
+    .file-item {
+        border-bottom: 1px solid #ccc;
+    }
+}

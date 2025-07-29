@@ -1,0 +1,58 @@
+# Dependencies
+/vendor/
+node_modules/
+
+# Composer files
+composer.lock
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+
+# Log files
+*.log
+logs/
+
+# Cache files
+cache/
+tmp/
+
+# Configuration overrides
+config.local.php
+.env
+.env.local
+
+# Uploaded files (if you want to ignore them)
+# uploads/
+
+# Test files
+coverage/
+.phpunit.result.cache
+
+# Build files
+build/
+dist/
+
+# Backup files
+*.bak
+*.backup
+
+# Archive files created by the file manager
+*.zip
+*.tar.gz
+
+# Sensitive files
+*.pem
+*.key
+private/
+
+# PHP CS Fixer cache
+.php-cs-fixer.cache
