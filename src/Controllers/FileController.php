@@ -17,7 +17,7 @@ use ZipArchive;
  * creation, deletion, copying, moving, archiving, and more.
  *
  * @package Dhiraj\PhpFileManager\Controllers
- * @author Dhiraj Dhiman <dhiraj@example.com>
+ * @author Dhiraj Dhiman <dhiraj@nishthatechnosoft.com>
  * @version 1.0.0
  * @since 1.0.0
  */

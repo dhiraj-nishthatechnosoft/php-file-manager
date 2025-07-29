@@ -11,11 +11,11 @@
 
 **Dhiraj Dhiman**
 - GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
-- Email: dhiraj@example.com
+- Email: dhiraj@nishthatechnosoft.com
 
 ---Dhiman**
 - GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
-- Email: dhiraj@example.com
+- Email: dhiraj@nishthatechnosoft.com
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Dhiraj Dhiman**
 - GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
-- Email: dhiraj@example.com
+- Email: dhiraj@nishthatechnosoft.com
 
 ---- Bulk operations support
 - Archive handling (ZIP/TAR.GZ)
@@ -37,17 +37,17 @@
 
 **Dhiraj Dhiman**
 - GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
-- Email: dhiraj@example.com
+- Email: dhiraj@nishthatechnosoft.com
 
 --- Dhiman**
 - GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
-- Email: dhiraj@example.com
+- Email: dhiraj@nishthatechnosoft.com
 
 ---
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub! Dhiman**
 - GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
-- Email: dhiraj@example.com
+- Email: dhiraj@nishthatechnosoft.com
 
 ---
 
@@ -651,7 +651,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dhiraj Dhiman**
 - GitHub: [@dhiraj-nishthatechnosoft](https://github.com/dhiraj-nishthatechnosoft)
-- Email: dhiraj@example.com
+- Email: dhiraj@nishthatechnosoft.com
 
 ---
 

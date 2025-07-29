@@ -150,7 +150,7 @@ else
         echo ""
         print_status "Setting default configuration for this repository..."
         git config user.name "Dhiraj Dhiman"
-        git config user.email "dhiraj@example.com"
+        git config user.email "dhiraj@nishthatechnosoft.com"
     fi
 
     # Commit initial files

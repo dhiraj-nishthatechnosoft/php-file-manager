@@ -14,7 +14,7 @@ use Composer\IO\IOInterface;
  * PHP File Manager package, including asset publishing and setup.
  *
  * @package Dhiraj\PhpFileManager
- * @author Dhiraj Dhiman <dhiraj@example.com>
+ * @author Dhiraj Dhiman <dhiraj@nishthatechnosoft.com>
  * @version 1.0.0
  * @since 1.0.0
  */

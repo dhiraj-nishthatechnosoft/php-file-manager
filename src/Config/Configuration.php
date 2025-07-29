@@ -11,7 +11,7 @@ namespace Dhiraj\PhpFileManager\Config;
  * including security settings, file size limits, and allowed extensions.
  *
  * @package Dhiraj\PhpFileManager\Config
- * @author Dhiraj Dhiman <dhiraj@example.com>
+ * @author Dhiraj Dhiman <dhiraj@nishthatechnosoft.com>
  * @version 1.0.0
  * @since 1.0.0
  */
